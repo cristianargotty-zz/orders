@@ -9,7 +9,8 @@
         "symfony/console": "*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "*",
-        "symfony/yaml": "*"
+        "symfony/yaml": "*",
+        "webonyx/graphql-php": "^0.12.6"
     },
     "require-dev": {
         "symfony/dotenv": "*",
